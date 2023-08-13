@@ -9,6 +9,8 @@ const Navbar = () => {
                 <Link className="headerLink" to="/">Home</Link>
                 
                 <Link className="headerLink" to="/calculator">Calculator</Link>
+
+                <Link className="headerLink" to="/todoapp">Todo App</Link>
                 
             </div>
             <div>
